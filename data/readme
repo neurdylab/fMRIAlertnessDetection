@@ -1,6 +1,3 @@
 Task data 
   Includes OUT structs for each subject consisting of their eeg, vigilance prediction, reaction times, and stimulus time.
-  
-Templates
-  full_template.nii
-  one_percent_template.nii
+ 
